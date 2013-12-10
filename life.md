@@ -2,4 +2,9 @@ Hector's life
 ===============
 
 - 24/06/1986 Born
-- 9/12/2013 Current Era
+- 2009-2011 Graduate school @ MICA
+- 2009-~ Work on The Matter of Memory
+- 10/2011 Moved to NYC
+- 11/2011-10/2012 First position in NYC: a Gallery Associate
+- 10/2012-6/2013 First position as a Web Developer
+- 9/12/2013 I installed life
