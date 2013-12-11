@@ -3,6 +3,8 @@ Hector's life
 
 - 24/06/1986 Born
 - 06/1986-10/2004 Virginia
+- 10/2004-05/2008 Maryland
+- 06/2008-09-2009 Los Angeles
 - 2009-2011 Graduate school @ MICA
 - 2009-~ Work on The Matter of Memory
 - 10/2011 Moved to NYC
