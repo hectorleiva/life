@@ -14,3 +14,4 @@ Hector's life
 - 11/2011-10/2012 First position in NYC: a Gallery Associate
 - 10/2012-6/2013 First position as a Web Developer
 - 9/12/2013 I installed life
+- 12/16/2013 First steps into learning VIM
